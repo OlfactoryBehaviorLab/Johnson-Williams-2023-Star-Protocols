@@ -1,0 +1,51 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Protocol for Quantifying the Odor Detection Threshold of
+  Mice
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Chloe Elise
+    family-names: Johnson
+    affiliation: >-
+      Department of Psychology, Program in Neuroscience,
+      Florida State University, Tallahassee, FL 32306, USA
+  - given-names: Ellie
+    family-names: Williams
+    affiliation: >-
+      Department of Psychology, Program in Neuroscience,
+      Florida State University, Tallahassee, FL 32306, USA
+  - given-names: Adam
+    family-names: Dewan
+    email: dewan@psy.fsu.edu
+    affiliation: >-
+      Department of Psychology, Program in Neuroscience,
+      Florida State University, Tallahassee, FL 32306, USA
+identifiers:
+  - type: url
+    value: 'https://star-protocols.cell.com/protocols/3043'
+    description: STAR Protocols URL
+  - type: doi
+    value: 10.5281/zenodo.8353698
+    description: Zenodo Dataset Archives
+repository-code: >-
+  https://github.com/OlfactoryBehaviorLab/Johnson-Williams-2023-Star-Protocols
+abstract: >-
+  Perceptual measures of odor threshold provide a mechanism
+  to compare sensitivity across species and to gauge
+  stimulus concentrations for functional experiments. Here,
+  we present a protocol to precisely quantify the odor
+  detection threshold of mice. We describe the construction
+  of a head-fixed operant conditioning behavioral rig and
+  provide details of the training and testing procedures.
+  This approach can be used to compare the sensitivity of
+  mice across odorants and to quantify detection differences
+  associated with genetic mutations or pharmacological
+  manipulations.
+version: v1.1
+date-released: '2025-03-11'

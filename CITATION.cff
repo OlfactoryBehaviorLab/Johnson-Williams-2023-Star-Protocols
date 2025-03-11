@@ -47,5 +47,6 @@ abstract: >-
   mice across odorants and to quantify detection differences
   associated with genetic mutations or pharmacological
   manipulations.
-version: v1.1
+license: AGPL-3.0
+version: v1.1.01
 date-released: '2025-03-11'
